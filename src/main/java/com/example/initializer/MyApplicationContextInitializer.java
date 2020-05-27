@@ -15,7 +15,7 @@ import org.springframework.context.ConfigurableApplicationContext;
 
 /**
  * 这货也是Spring框架原有的东西，这个类的主要作用就是在ConfigurableApplicationContext类型(或者子类型)
- * 的ApplicationContext做refresh之前，允许我们对ConfiurableApplicationContext的实例做进一步的设置和处理
+ * 的ApplicationContext做refresh之前，允许我们对ConfigurableApplicationContext的实例做进一步的设置和处理
  *
  * @author di.mao
  * @version 1.0
